@@ -698,10 +698,10 @@ export async function participantsUpdate({ id, participants, action }) {
                                 membercount: groupMetadata.participants.length
                             })
     conn.sendButtonDoc(id, text, wm, action == 'add' ? 'ᴡᴇʟᴄᴏᴍᴇ' : 'sᴀʏᴏɴᴀʀᴀᴀ', action === 'add' ? '.intro' : 'ok', fkontak, { contextInfo: { externalAdReply: { showAdAttribution: true,
-    mediaUrl: "https://instagram.com/khoirul36_",
+    mediaUrl: "https://instagram.com/karfuanyogich",
     mediaType: 2, 
-    description: "https://youtube.com/channel/UC1oSMQCd3XKVxYwSh4RE2Nw", 
-    title: 'Rull-Senpai',
+    description: "https://youtube.com/@Vallzy_YETE", 
+    title: '© ZennX-Botz',
     body: wm,
     thumbnail: await(await fetch(action === 'add' ? wel : lea)).buffer(),
     sourceUrl: sig
