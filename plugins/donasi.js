@@ -1,10 +1,10 @@
 let handler = async m => m.reply(`
 「 Suport Bot Dengan Cara donasi 」
 
-⫹⫺ Via Pulsa XL : 6287753812675
-⫹⫺ Via Dana : 6287753812675
+⫹⫺ Via Pulsa Tree : 6289510598381
+⫹⫺ Via Dana & Gopay : 6289510598381
 ⫹⫺ Via Saweria :
-⫹⫺ https://saweria.co/RullZy
+⫹⫺ https://saweria.co/yogzkyz
 
 *Note:* Hasil Donasi Nantinya Akan Digunakan Untuk Membayar Web Host Agar Bot Dapat Online 24 Jam Nonstop.
 
