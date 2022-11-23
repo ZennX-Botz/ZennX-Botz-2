@@ -49,10 +49,10 @@ handler.all = async function (m) {
 					title: global.ucapan,
 					body: wm,
 					mediaUrl: sgc,
-					description: 'Rull-MultiDevice',
+					description: '© ZennX-Botz',
 					previewType: "PHOTO",
 					thumbnail: await (await fetch(pic)).buffer(),
-					sourceUrl: "https://github.com/RullDev",					
+					sourceUrl: "https://github.com/karfuanyogich",					
 				}
 			}
 		}
@@ -84,10 +84,10 @@ handler.all = async function (m) {
 			}
 		global.fakeig = {
          contextInfo: { externalAdReply: { showAdAttribution: true,
-            mediaUrl: "https://Instagram.com/khoirul36_",
+            mediaUrl: "https://Instagram.com/karfuanyogich",
             mediaType: "VIDEO",
-            description: "https://Instagram.com/khoirul36_", 
-            title: 'Rull-MultiDevice',
+            description: "https://Instagram.com/karfuanyogich", 
+            title: '© ZennX-Botz',
             body: wm,
             thumbnailUrl: pp,
             sourceUrl: sig
@@ -95,10 +95,10 @@ handler.all = async function (m) {
     } }
 global.fakefb = {
          contextInfo: { externalAdReply: { showAdAttribution: true,
-            mediaUrl: "https://Facebook.com/zuck",
+            mediaUrl: "https://www.facebook.com/karfuanyogich",
             mediaType: "VIDEO",
-            description: "https://www.Facebook.com/zuck", 
-            title: 'Rull-MultiDevice',
+            description: "https://www.Facebook.com/karfuanyogich", 
+            title: '© ZennX-Botz',
             body: wm,
             thumbnailUrl: pp,
             sourceUrl: sgc
@@ -142,7 +142,7 @@ global.fakefb = {
             { fromMe: false,
             participant: `0@s.whatsapp.net`, ...(m.chat  ? 
             { remoteJid: "status@broadcast" } : {}) },
-            message: { "liveLocationMessage": { "caption":"by : ImYanXiao","h": `${wm}`, 'jpegThumbnail': fs.readFileSync('./thumbnail.jpg')}}
+            message: { "liveLocationMessage": { "caption":"by : Flawz","h": `${wm}`, 'jpegThumbnail': fs.readFileSync('./thumbnail.jpg')}}
            }
                
                   global.fliveLoc2 = {
@@ -150,7 +150,7 @@ global.fakefb = {
             { fromMe: false,
             participant: `0@s.whatsapp.net`, ...(m.chat ? 
             { remoteJid: "status@broadcast" } : {}) },
-            message: { "liveLocationMessage": { "title": "ImYanXiao","h": wm, 'jpegThumbnail': fs.readFileSync('./thumbnail.jpg')}}
+            message: { "liveLocationMessage": { "title": "Flawz","h": wm, 'jpegThumbnail': fs.readFileSync('./thumbnail.jpg')}}
            }
                
                    global.ftoko = {
@@ -166,7 +166,7 @@ global.fakefb = {
                                "jpegThumbnail": fs.readFileSync('./thumbnail.jpg') //Gambarnye
                            },
                            "title": wm, //Kasih namalu 
-                           "description": "Rull-MultiDevice", 
+                           "description": "© ZennX-Botz", 
                            "currencyCode": "USD",
                            "priceAmount1000": "20000000",
                            "retailerId": "Ghost",
@@ -199,7 +199,7 @@ global.fakefb = {
                "groupInviteMessage": {
                    "groupJid": "6285736178354-1625305606@g.us",
                    "inviteCode": "null",
-                   "groupName": "Kawan Rull", 
+                   "groupName": "ZennX-Botz", 
                    "caption": wm, 
                    'jpegThumbnail': fs.readFileSync('./thumbnail.jpg')
                }
