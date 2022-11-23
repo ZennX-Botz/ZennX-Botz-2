@@ -17,7 +17,7 @@ let stiker = await sticker(null, global.API(`https://telegra.ph/file/d34b2ab2cb2
           showAdAttribution: true,
     mediaUrl: sgc,
     mediaType: 2,
-    description: 'RullBOT', 
+    description: '© ZennX-Botz', 
     title: `${command} Sedang Di Proses`,
     body: botdate,
     thumbnail: await(await fetch(pp)).buffer(),
@@ -29,15 +29,15 @@ let audio = `https://raw.githubusercontent.com/aisyah-rest/mangkane/main/Mangkan
 
 await conn.sendFile(m.chat, audio, 'error.mp3', null, fkontak, true, {
 type: 'audioMessage', 
-ptt: false, seconds: 0,contextInfo: {
+ptt: false, seconds: 0,contextInfo: {
          externalAdReply: { showAdAttribution: true,
- mediaUrl: 'www.instagram.com/khoirul36_',
+ mediaUrl: 'www.instagram.com/karfuanyogich',
     mediaType: 2, 
-    description: 'www.instagram.com/khoirul36_',
+    description: 'www.instagram.com/karfuanyogich',
     title: "Now Playing...",
     body: wm,
     thumbnail: await (await fetch('https://telegra.ph/file/19aa29bfe0ec954f73f9b.jpg')).buffer(),
-    sourceUrl: 'www.instagram.com/khoirul36_'
+    sourceUrl: 'www.instagram.com/karfuanyogich'
  	  /*   sourceUrl: sig,
            title: '◄⟬ ●━━━ ⧏ ⧎ ⧐ ━━━● ⟭►',  
             body: 'Now Playing...', 
