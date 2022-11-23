@@ -52,7 +52,7 @@ handler.all = async function (m) {
 					description: '© ZennX-Botz',
 					previewType: "PHOTO",
 					thumbnail: await (await fetch(pic)).buffer(),
-					sourceUrl: "https://github.com/karfuanyogich",					
+					sourceUrl: "https://github.com/ZennX-Botz",					
 				}
 			}
 		}
