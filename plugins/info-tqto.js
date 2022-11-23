@@ -53,9 +53,12 @@ https://github.com/Rlxfly
 https://github.com/Aiinne
 *❉ Papah-Chan:*
 https://github.com/FahriAdison
-*▸ - - - —「 Penulis Ulang 」— - - - ◂*
 *❉ KhrlMstfa:*
 https://github.com/RullDev
+
+*▸ - - - —「 Penulis Ulang 」— - - - ◂*
+*❉ Flawz:*
+https://github.com/ZennX-Botz
 *▸ - - - —「 Thanks For Suhu 」— - - - ◂*
 *❉ Kannachan:*
 *❉ The.sadboy.01:*
@@ -66,10 +69,10 @@ https://github.com/RullDev
 
 `
 conn.sendButtonDoc(m.chat, tqto, wm,'Thanks','Bilek', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
-    mediaUrl: "https://Instagram.com/khoirul36_",
+    mediaUrl: "https://Instagram.com/karfuanyogich",
     mediaType: "VIDEO",
-    description: "https://Instagram.com/khoirul36_", 
-    title: 'Rull-MultiDevice',
+    description: "https://Instagram.com/karfuanyogich", 
+    title: '© ZennX-Botz',
     body: wm,
     thumbnail: thumb,
     sourceUrl: sgc
