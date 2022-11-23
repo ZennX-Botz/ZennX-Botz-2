@@ -3,13 +3,13 @@ import fetch from 'node-fetch'
  let handler = async(m, { conn }) => { 
 
          let pp = fs.readFileSync('./thumbnail.jpg')
-         let gc1 = 'https://chat.whatsapp.com/D2NUDa6vk4I6hrS176mErV'
+         let gc1 = 'https://chat.whatsapp.com/KNkpoT4oX5yFA18GlPttgl'
          let caption = `*Mʏ Gᴄ Oғғɪᴄɪᴀʟ*`
          await conn.sendButtonDoc(m.chat, caption, wm, 'Owner', '.owner', m, { contextInfo: { 
              externalAdReply: {
                sourceUrl: `${gc1}`,
-               title: 'My Group Official', 
-               body: 'Rull-MultiDevice',
+               title: 'My Group Official', 
+               body: 'Official Group Bot!',
                thumbnail: pp
              } 
          }})
