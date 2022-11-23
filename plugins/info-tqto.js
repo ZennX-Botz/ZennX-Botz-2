@@ -58,7 +58,7 @@ https://github.com/RullDev
 
 *▸ - - - —「 Penulis Ulang 」— - - - ◂*
 *❉ Flawz:*
-https://github.com/ZennX-Botz
+https://github.com/ZennX-Botz 
 *▸ - - - —「 Thanks For Suhu 」— - - - ◂*
 *❉ Kannachan:*
 *❉ The.sadboy.01:*
