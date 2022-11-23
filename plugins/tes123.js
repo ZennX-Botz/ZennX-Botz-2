@@ -22,7 +22,7 @@ conn.reply(m.chat, info, m, { quoted: fakes },{ contextInfo: { externalAdReply: 
 
 }
 
-handler.customPrefix = /^(tes|bot|rull|test|halo|hallo|Pp|Hai, saya mau confess ke dia|Halo|Hallo|mau confes|Mau confes|Hai mau confess)$/i
+handler.customPrefix = /^(tes|bot|zenn|test|halo|hallo|Pp|Hai, saya mau confess ke dia|Halo|Hallo|mau confes|Mau confes|Hai mau confess)$/i
 
 handler.command = new RegExp
 
