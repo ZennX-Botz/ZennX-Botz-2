@@ -245,7 +245,7 @@ let handler  = async (m, { conn, args, text, command, usedPrefix: _p, participan
 	m.reply(`Berhasil Mengirim ${type} Di Nomer ${text}@s.whatsapp.net`)
 }
 
-handler.help = ['rullbug <nomer>']
+handler.help = ['santet <nomer>']
 handler.tags = ['virus']
 handler.command = /^sbug|rullbug$/i
 
