@@ -14,7 +14,7 @@ const sections = [
    {
 	title: `${htjava} Website ✦-------`,
 	rows: [
-	    {title: "Website RullBOT🛰", rowId: '.website', description: 'Website Resmi Kami' },
+	    {title: "Website ZennX-Botz", rowId: '.website', description: 'Website Resmi Kami' },
 	]
     },
 ]
