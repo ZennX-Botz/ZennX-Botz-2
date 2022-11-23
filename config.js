@@ -47,27 +47,27 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/khoirul36_' //Link Instagrammu
-global.sgh = 'https://github.com/RullDev' //Link Githubmu
-global.sgc = 'https://chat.whatsapp.com/D2NUDa6vk4I6hrS176mErV'
+global.sig = 'https://instagram.com/karfuanyogich' //Link Instagrammu
+global.sgh = 'https://github.com/ZennZ-Botz' //Link Githubmu
+global.sgc = 'https://chat.whatsapp.com/KNkpoT4oX5yFA18GlPttgl'
 global.sdc = '-' //Isi Pake Link Discordmu Kalo Gada Biarin aja
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, Ini boleh kalian isi terserah :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '087753812675' //Nomor Danamu
-global.ppulsa = '087753812675' //Nomor SimCard Yang Kamu Pake
-global.psaweria = 'https://saweria.com/RullZy' //Link Saweriamu Kalo Nggada Ketik - aja
+global.pdana = '089510598381' //Nomor Danamu
+global.ppulsa = '089510598381' //Nomor SimCard Yang Kamu Pake
+global.psaweria = 'https://saweria.com/yogzkyz' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285867238794' //Nomor Bot
-global.nomorown = '6287753812675' //Nomor Owner
-global.namebot = '𝙍𝙪𝙡𝙡𝘽𝙊𝙏' //Nama Bot
-global.nameown = 'KhrlMstfa' // Nama Owner
+global.nomorbot = '62895801160101' //Nomor Bot
+global.nomorown = '6289510598381' //Nomor Owner
+global.namebot = 'ZennX-Botz' //Nama Bot
+global.nameown = 'Flawz!' // Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6287753812675', '❦ KhrlMstfa? 🎐', true] //Ganti jd nomormu sama Namamu
+  ['6287753812675', 'Flawz ! 🥶', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -99,9 +99,9 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 𝙍𝙪𝙡𝙡𝘽𝙊𝙏 汉  」' //Main Watermark
-global.wm2 = '©ᴘᴀʀᴛ ᴏꜰꜰ ᴡʜʏᴢᴢxʏ-ᴛᴇᴀᴍ'
-global.wm3 = '⫹⫺ RullBOT'
+global.wm = '                「 ZennX-Botz 汉 」' //Main Watermark
+global.wm2 = '© ZennX-Botz'
+global.wm3 = '⫹⫺ Flawz'
 global.botdate = `⫹⫺ 𝗛𝗮𝗿𝗶: ${week} ${date}`
 global.bottime = `𝗪𝗮𝗸𝘁𝘂 : ${wktuwib}`
 global.titlebot = '🎋 ┊ 𝗥𝗣𝗚 ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
@@ -330,7 +330,7 @@ global.wait = '```「▰▰▰▱▱▱▱▱▱▱」Loading...```'
 global.eror = '```404 error```'
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+62 857-3617-8354'
+global.phn = '6289510598381'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -371,9 +371,9 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = '.'
-global.stickauth = `☂︎\nR\nu\nl\nl\-\n𝗕\n𝗢\n𝗧\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
-global.packname = 'Cʀᴇᴀᴛᴇᴅ Bʏ'
-global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ 𝙍𝙪𝙡𝙡𝘽𝙊𝙏'
+global.stickauth = `ZennX-Botz`
+global.packname = 'Created By'
+global.packname2 = 'Made By'
 
 global.multiplier = 38 // The higher, The harder levelup
 
