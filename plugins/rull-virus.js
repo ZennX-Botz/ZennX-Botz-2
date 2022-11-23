@@ -14,7 +14,7 @@ let handler  = async (m, { conn, args, text, command, usedPrefix: _p, participan
 	//const participants = m.isGroup ? await groupMetadata.participants : ''
 	let q = `Bug Tag From ${author}\n${text}`
 	let sections = [{
-		title: `Created by Zens`,
+		title: `Created by ZennX-Botz`,
 		rows: [
 			{ title: 'Bug PDF', rowId: `${_p + command} pdf ${text}` },
 			{ title: 'Bug VN', rowId: `${_p + command} vn ${text}` },
@@ -30,7 +30,7 @@ let handler  = async (m, { conn, args, text, command, usedPrefix: _p, participan
 	}]
 	let listMessage = {
 		text: '*[ List Bug ]*\n\n*Note :* Jangan Gunakan Secara Sembarangan',
-		footer: By Rull,
+		footer: By ZennX-Botz,
 		buttonText: 'Silahkan Klik Di Sini',
 		sections
 	}
